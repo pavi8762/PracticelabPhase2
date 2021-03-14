@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="65" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+      <class name="com.testannotations.TestAnnotations">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="beforeTest" is-config="true" duration-ms="9" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="beforeClass" is-config="true" duration-ms="1" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="Test1" duration-ms="11" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="Test2" duration-ms="1" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.testannotations.TestAnnotations@5c5a1b69]" name="AfterTest" is-config="true" duration-ms="1" started-at="2021-03-14T14:57:27 UTC" finished-at="2021-03-14T14:57:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- com.testannotations.TestAnnotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
