@@ -1,0 +1,18 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ExportReport">
+
+
+	<test name="t_001">
+		<classes>
+			<class name="test.Test_01"></class>
+		</classes>
+</test>
+
+ <test name="t_002">
+
+		<classes>
+			<class name="test.Test_02"></class>
+		</classes>
+	</test> 
+</suite>
