@@ -1,6 +1,8 @@
 package tests;
 
 import java.io.FileInputStream;
+
+
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
@@ -11,10 +13,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import pages.LoginPage;
 
+@Listeners(ListenerClass.class)
 public class LoginTest extends Baseclass {
 	
 	XSSFWorkbook Workbook;
