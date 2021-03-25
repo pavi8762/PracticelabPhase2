@@ -7,6 +7,7 @@
         <methods>
           <include name="login"/>
           <include name="setup"/>
+          <include name="Fetchdata"/>
         </methods>
       </class> <!-- tests.LoginTest -->
     </classes>
