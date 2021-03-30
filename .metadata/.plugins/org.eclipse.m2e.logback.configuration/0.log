@@ -1910,3 +1910,7 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-03-30 19:40:21,500 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/eclipse-workspace/SimplilearnTDD/src/main/resources
 2021-03-30 19:40:21,503 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-03-30 19:40:21,503 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/eclipse-workspace/SimplilearnTDD/src/test/resources
+2021-03-30 19:44:53,258 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 19:44:53,258 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/eclipse-workspace/SimplilearnTDD/src/main/resources
+2021-03-30 19:44:53,259 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 19:44:53,260 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/eclipse-workspace/SimplilearnTDD/src/test/resources
